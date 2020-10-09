@@ -5,8 +5,8 @@ press left arrow to move left
 press right arrow to move right
 press up to stop moving left or right
 
-this is not final version, working on flickering of doodle
+this is not final version, working on flickering of doodle but rest functionality works perfect.
 
-play @
+play @ https://sharangkulkarni2.github.io/doodle-jump/.
 
 
